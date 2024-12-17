@@ -3,7 +3,7 @@ To Generate The Possible Wordlists
 
 # Installation 
 #### $ git clone https://github.com/m00nisSmiling/wordlist_gen.git
-#### $ cd wodlist_gen
+#### $ cd wordlist_gen
 #### $ python wordlist_gen.py
 
 # Usages
