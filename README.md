@@ -11,5 +11,5 @@ To Generate The Possible Wordlists
 #### | 2 | multi list mode
 
 # Usage Video
-https://github.com/user-attachments/assets/5e91d134-f92e-4d70-8f26-245595019c66
+https://github.com/user-attachments/assets/2c7dd9ee-977d-48b1-9e77-2c663410329d
 
